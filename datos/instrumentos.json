@@ -1,0 +1,42 @@
+[
+    {
+    "id": 1,
+    "nombre": "Guitarra criolla",
+    "familia": "cuerda",
+    "origen": "España",
+    "descripcion": "Instrumento de cuerda pulsada utilizado en numerosos estilos musicales.",
+    "disponible": true
+    },
+    {
+    "id": 2,
+    "nombre": "Piano",
+    "familia": "teclado",
+    "origen": "Italia",
+    "descripcion": "Instrumento de teclado en el que las teclas accionan pequeños martillos sobre cuerdas.",
+    "disponible": true
+    },
+    {
+    "id": 3,
+    "nombre": "Saxofón",
+    "familia": "viento",
+    "origen": "Bélgica",
+    "descripcion": "Instrumento de viento fabricado principalmente en metal y utilizado en diversos géneros musicales.",
+    "disponible": false
+    },
+    {
+    "id": 4,
+    "nombre": "Violín",
+    "familia": "cuerda",
+    "origen": "Italia",
+    "descripcion": "Instrumento de cuerda frotada de cuatro cuerdas.",
+    "disponible": true
+    },
+    {
+    "id": 5,
+    "nombre": "Batería",
+    "familia": "percusión",
+    "origen": "Estados Unidos",
+    "descripcion": "Conjunto de instrumentos de percusión utilizado para marcar ritmos y acompañar diferentes estilos musicales.",
+    "disponible": true
+    }
+]
